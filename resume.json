@@ -61,20 +61,36 @@
   ],
   "projectList": [
     {
-      "project_name": "优选风控PC",
+      "project_name": "星云",
       "project_role": "主要开发人员",
-      "project_time": "2021年7月-至今",
-      "project_desc": "面向运营的管理系统，能够对优选运营过程中的参与者、商品进行管控，可视化的形式展示运营的数据，协助运营完成工作提高运行效率。",
-      "project_content": "1. 按照产品需求文档和接口文档，完成项目功能的开发、迭代。偶尔对接其他系统，完善产品交互。",
+      "project_time": "2023年5月-至今",
+      "project_desc": "产品、数据开发等的数据资产管理平台，提供了数据监控、检索等功能。",
+      "project_content": "按照设计搞及需求文档完成开发、迭代。",
       "dataIndex": 0
     },
     {
-      "project_name": "风控移动端",
+      "project_name": "算法平台",
       "project_role": "主要开发人员",
-      "project_time": "2021年7月-至今",
+      "project_time": "2023年5月-至今",
+      "project_desc": "算法应用管理平台，面向算法开发",
+      "project_content": "按照需求文档完成开发、迭代。",
+      "dataIndex": 1
+    },
+    {
+      "project_name": "优选风控PC",
+      "project_role": "开发人员",
+      "project_time": "2021年7月-2023年5月",
+      "project_desc": "面向运营的管理系统，能够对优选运营过程中的参与者、商品进行管控，可视化的形式展示运营的数据，协助运营完成工作提高运行效率。",
+      "project_content": "1. 按照产品需求文档和接口文档，完成项目功能的开发、迭代。偶尔对接其他系统，完善产品交互。",
+      "dataIndex": 2
+    },
+    {
+      "project_name": "风控移动端",
+      "project_role": "开发人员",
+      "project_time": "2021年7月-2023年5月",
       "project_desc": "面向商家、BD的风控平台，提供风控信息查询、举证的平台。",
       "project_content": "按照设计搞及需求文档完成开发、迭代。",
-      "dataIndex": 1
+      "dataIndex": 3
     }
   ],
   "workList": [],
